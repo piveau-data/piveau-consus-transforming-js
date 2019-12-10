@@ -23,7 +23,7 @@ Requirements:
 
 ```bash
 $ git clone https://github.com/piveau-data/piveau-consus-transforming-js.git
-$ cd piveau-tranforming-js
+$ cd piveau-consus-transforming-js
 $ mvn package
 ```
  
